@@ -1,1 +1,1 @@
-print("do u have eraser")
+print("do u have an eraser")
